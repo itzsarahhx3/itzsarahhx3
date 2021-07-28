@@ -7,7 +7,7 @@ An Accountant turned Software Engineer. Simply put, Accounting is organizing and
 -   🔭 I graduated from the Grace Hopper Program at Fullstack Academy
 -   🌱 I’m currently learning Data Structures and Algorithms
 -   📫 Connect with me on <a href="https://www.linkedin.com/in/sarah-zhan/" target="_blank">LinkedIn</a>!
--   📝 And of course, my <a href="https://drive.google.com/drive/u/1/folders/1A0Xuly2JqrlsmwqQ6Xtlq2iavlDtHGjk" target="_blank">Resume</a>.
+-   📝 And of course, my <a href="https://drive.google.com/file/d/1KZ3I54MokLdxHfDd9zXZvbP4lRlR5wlY/view?usp=sharing" target="_blank">Resume</a>.
 
 ## Languages and Tools 🔨
 
