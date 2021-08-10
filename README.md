@@ -8,7 +8,7 @@ An Accountant turned Software Engineer. Simply put, Accounting is organizing and
 -   🌱 I’m currently learning Data Structures and Algorithms
 -   📫 Connect with me on <a href="https://www.linkedin.com/in/sarah-zhan/" target="_blank">LinkedIn</a>!
 -   👩🏻‍💻 Check out my <a href="https://itzsarahhx3.github.io/sarah-portfolio/" target="_blank">portfolio</a>!
--   📝 And of course, my <a href="https://drive.google.com/file/d/14MjGGYLQRZnf5VhndRcvmC-LWXVwGLkF/view?usp=sharing" target="_blank">Resume</a>.
+-   📝 And of course, my <a href="https://drive.google.com/file/d/1roBLtDQjQbvYRh6EZC_6_1xHE2rFus-z/view?usp=sharing" target="_blank">Resume</a>.
 
 ## Languages and Tools 🔨
 
