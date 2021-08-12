@@ -42,7 +42,7 @@ An Accountant turned Software Engineer. Simply put, Accounting is organizing and
 
 -   [FoodDeeds: The app that fights food insecurity](https://github.com/FoodDeeds/food_deeds)
 -   [E-Commerce Site: An online shopping super-store for all your superpower needs!](https://github.com/SuperHoppers/SuperHop)
--   [Full Stack Photobook App](https://github.com/itzsarahhx3/Photobook-App.git)
+-   [PhotoAlbum App: A full stack photo organizing app on AWS](https://github.com/itzsarahhx3/Photobook-App.git)
 -   [Food Recipe App](https://github.com/itzsarahhx3/Food-Recipe-React-App)
 
 ## Numbers 👀
